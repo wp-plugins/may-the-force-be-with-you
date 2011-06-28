@@ -1,0 +1,20 @@
+=== May The Force Be With You ===
+Contributors: sethradio
+Tags: admin, hello dolly
+Requires at least: 3.0
+Tested up to: 3.1
+Stable tag: trunk
+
+This plugin when activated will dislpay star wars quote on the administrator's dashboard
+== Description ==
+
+
+This plugin when activated will dislpay star wars quote on the administrator's dashboard. This is based in the original hello dolly plugin by Matt Mullenwig. By the way, Matt, do you mind?
+
+== Installation ==
+1. Upload `plugin-name.php` to the `/wp-content/plugins/` directory
+2. Activate the plugin through the 'Plugins' menu in WordPress
+
+== Screenshots ==
+
+1. Here is a screenshot.
