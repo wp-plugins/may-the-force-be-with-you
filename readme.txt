@@ -12,7 +12,7 @@ This plugin when activated will dislpay star wars quote on the administrator's d
 This plugin when activated will dislpay star wars quote on the administrator's dashboard. This is based in the original hello dolly plugin by Matt Mullenwig. By the way, Matt, do you mind?
 
 == Installation ==
-1. Upload `plugin-name.php` to the `/wp-content/plugins/` directory
+1. Upload `mtfbwy.php` to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
 
 == Screenshots ==
