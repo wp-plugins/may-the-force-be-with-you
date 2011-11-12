@@ -1,6 +1,6 @@
 === May The Force Be With You ===
 Contributors: sethradio
-Tags: admin, hello dolly, star wars
+Tags: admin, hello dolly, star wars, dashboard
 Requires at least: 3.0
 Tested up to: 3.2.1
 Stable tag: trunk
