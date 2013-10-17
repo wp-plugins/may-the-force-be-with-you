@@ -2,7 +2,7 @@
 Contributors: sethradio
 Tags: admin, hello dolly, star wars, dashboard
 Requires at least: 3.0
-Tested up to: 3.4
+Tested up to: 3.7
 Stable tag: trunk
 
 This plugin when activated will dislpay star wars quote on the administrator's dashboard.
